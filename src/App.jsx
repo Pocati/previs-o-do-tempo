@@ -1,7 +1,7 @@
 import { useState, useRef } from 'react'
 import axios from 'axios'
 import './App.css'
-import TempoInfos from './components/TempoInfos/tempoinfos'
+import TempoInfos from './components/TempoInfos/TempoInfos'
 import TempoInfos5Dias from './components/TempoInfos5dias/TempoInfos5dias'
 
 function App() {
