@@ -1,0 +1,33 @@
+.container {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+h2 {
+    font-size: 2 rem;
+}
+
+.tempoInfo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.temperatura {
+    font-size: 2.5 rem;
+    font-weight: bold;
+}
+
+.descricao {
+    text-transform: capitalize;
+    font-size: 1.3 rem;
+    margin-bottom: 10px;
+}
+
+.detalhes {
+    display: flex;
+    justify-content: space-around;
+
+}
