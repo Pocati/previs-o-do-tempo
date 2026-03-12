@@ -25,3 +25,15 @@
     padding: 10px;
 
 }
+
+@media (max-width: 600px) {
+    .weather-list {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .weather-item {
+        max-width: 300px;
+        width: 100%;
+    }
+}
