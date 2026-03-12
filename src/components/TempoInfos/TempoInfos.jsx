@@ -1,4 +1,4 @@
-import './tempoinfos.css'
+import './TempoInfos.css'
 
 export function TempoInfos({ tempo }) {
     return (
